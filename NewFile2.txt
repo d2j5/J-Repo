@@ -3,3 +3,6 @@ Git commands
 Git clone
 
 Clones a repo
+
+git branch
+list of branch
