@@ -6,3 +6,7 @@ Clones a repo
 
 git branch
 list of branch
+
+Git config
+
+set up identity
