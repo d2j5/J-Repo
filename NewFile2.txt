@@ -10,3 +10,6 @@ list of branch
 Git config
 
 set up identity
+
+git stash
+temp save
